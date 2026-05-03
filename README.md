@@ -1,23 +1,59 @@
-# Hello, I'm Fatemeh Salarzaei 👋
+# 👋 Hello, I'm Fatemeh Salarzaei
 
-I am a software developer from Iran, residing in Zahedan, with experience in various programming fields. My expertise includes developing Android applications using Java and Android Studio, web development using Django REST Framework, and working with web crawlers using Scrapy. I also have experience with Python socket programming.
+<div align="center">
+  <p><strong>Software Developer | Android Enthusiast | Web Developer</strong></p>
+  <p>Based in Zahedan, Iran</p>
+</div>
 
-## 🔧 Skills and Technologies
+---
 
-- **Programming Languages**: Java, Python, Android, C#
-- **Application Development**: Android app design
-- **Web Development**: Django REST
-- **Web Crawling**: Scrapy
-- **Socket Programming**: Python
+## 👨‍💻 About Me
 
-## 📂 Projects
+I'm a passionate software developer with extensive experience in various programming fields. My journey spans from mobile application development to web technologies, with a focus on creating efficient and user-friendly solutions.
 
-- Projects related to Android and web application design
-- Web crawler projects using Scrapy
+---
 
-## 📫 How to Contact Me
+## 🔧 Skills & Technologies
 
-- **Email**: [salarzaei96@gmail.com](mailto:salarzaei96@gmail.com)
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=csharp&logoColor=white)
 
+### **Core Expertise**
+- 📱 **Mobile Development** - Android (Java, Android Studio)
+- 🌐 **Web Development** - Django REST Framework
+- 🕷️ **Web Crawling** - Scrapy
+- 🔌 **Backend** - Socket Programming (Python)
 
-I’m eager to explore various projects and feel free to contact me for collaboration or any questions!
+---
+
+## 📂 Featured Projects
+
+- **Android Applications** - Mobile app design and development
+- **Web Applications** - Full-stack web development with Django
+- **Web Crawlers** - Data extraction using Scrapy framework
+
+---
+
+## 🌟 What I'm Looking For
+
+I'm eager to explore exciting projects and collaborate with other developers. Let's build something great together!
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+**📧 Email:** [salarzaei96@gmail.com](mailto:salarzaei96@gmail.com)
+
+Feel free to reach out for collaboration, questions, or opportunities!
+
+</div>
+
+---
+
+<div align="center">
+  <p><em>Let's create amazing software solutions together! 🚀</em></p>
+</div>
